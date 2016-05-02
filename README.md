@@ -1,8 +1,8 @@
 # learning_neural_network
 
 # Files
-** train.pix  // training data
-** test.pix   // testing data
+* train.pix  // training data
+* test.pix   // testing data
 
 # compile & execute
 <pre>
